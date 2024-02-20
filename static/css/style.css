@@ -1,0 +1,10 @@
+
+body {
+  background-color: beige;
+}
+
+#content {
+  width: 100%;
+  padding-bottom: 75%;
+  background: rgb(102, 102, 102);
+}
